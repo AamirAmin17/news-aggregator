@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.news__div--search{
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+
+  input{
+    min-width: 240px;
+  }
+}
+
+.display--flex{
+  display: flex;
+  gap: 1rem;
+}
+.news__div--loading{
+  height: 100vh;
+  
+}
